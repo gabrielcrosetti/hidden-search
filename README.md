@@ -11,6 +11,8 @@ This project includes a hidden search bar that was made using javascript for pra
 
 ## Deployed Link 
 
+[Live Site](https://gabrielcrosetti.github.io/hidden-search/)
+
 ## Site Screenshot
 
 <img width="646" alt="Screen Shot 2022-01-07 at 12 24 51 PM" src="https://user-images.githubusercontent.com/89226867/148589479-9f0bc5a2-70d0-437b-8c25-1ed590a569cd.png">
